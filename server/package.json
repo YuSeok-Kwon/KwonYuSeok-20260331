@@ -1,0 +1,27 @@
+{
+  "name": "daiso-beauty-server",
+  "version": "1.0.0",
+  "description": "다이소 뷰티 AI 컨시어지 백엔드 서버",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "daiso",
+    "beauty",
+    "ai",
+    "concierge"
+  ],
+  "author": "권유석",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "openai": "^6.33.0"
+  }
+}
