@@ -1,0 +1,597 @@
+[
+  {
+    "ingredient_id": 1,
+    "ingredient_name": "정제수",
+    "effect": "Solvent",
+    "ingredient_type": "Solvent",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 2,
+    "ingredient_name": "부틸렌글라이콜",
+    "effect": "Moisturizing",
+    "ingredient_type": "Polyol",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 3,
+    "ingredient_name": "1,2-헥산다이올",
+    "effect": "Preservative",
+    "ingredient_type": "Preservative",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 4,
+    "ingredient_name": "다이프로필렌글라이콜",
+    "effect": "Moisturizing",
+    "ingredient_type": "Polyol",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 5,
+    "ingredient_name": "프로판다이올",
+    "effect": "Moisturizing",
+    "ingredient_type": "Polyol",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 6,
+    "ingredient_name": "카보머",
+    "effect": "Thickener",
+    "ingredient_type": "Thickener",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 7,
+    "ingredient_name": "잔탄검",
+    "effect": "Thickener",
+    "ingredient_type": "Thickener",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 8,
+    "ingredient_name": "토코페롤",
+    "effect": "Antioxidant",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 9,
+    "ingredient_name": "글리세린",
+    "effect": "Moisturizing",
+    "ingredient_type": "Polyol",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 10,
+    "ingredient_name": "알로에베라잎추출물",
+    "effect": "Soothing",
+    "ingredient_type": "Plant Extract",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 11,
+    "ingredient_name": "녹차추출물",
+    "effect": "Antioxidant",
+    "ingredient_type": "Plant Extract",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 12,
+    "ingredient_name": "트라이에탄올아민",
+    "effect": "pH Adjuster",
+    "ingredient_type": "pH Adjuster",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 13,
+    "ingredient_name": "디메티콘",
+    "effect": "Emollient",
+    "ingredient_type": "Silicone",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 14,
+    "ingredient_name": "사이클로펜타실록산",
+    "effect": "Emollient",
+    "ingredient_type": "Silicone",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 15,
+    "ingredient_name": "아데노신",
+    "effect": "Anti-wrinkle",
+    "ingredient_type": "Nucleoside",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 16,
+    "ingredient_name": "에틸헥실글리세린",
+    "effect": "Preservative",
+    "ingredient_type": "Preservative",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 17,
+    "ingredient_name": "소듐벤조에이트",
+    "effect": "Preservative",
+    "ingredient_type": "Preservative",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 18,
+    "ingredient_name": "포타슘소르베이트",
+    "effect": "Preservative",
+    "ingredient_type": "Preservative",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 19,
+    "ingredient_name": "페녹시에탄올",
+    "effect": "Preservative",
+    "ingredient_type": "Preservative",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 20,
+    "ingredient_name": "향료",
+    "effect": "Fragrance",
+    "ingredient_type": "Fragrance",
+    "is_allergic": true
+  },
+  {
+    "ingredient_id": 21,
+    "ingredient_name": "알란토인",
+    "effect": "Soothing",
+    "ingredient_type": "Soothing Agent",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 22,
+    "ingredient_name": "시어버터",
+    "effect": "Moisturizing",
+    "ingredient_type": "Emollient",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 23,
+    "ingredient_name": "호호바씨오일",
+    "effect": "Moisturizing",
+    "ingredient_type": "Oil",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 24,
+    "ingredient_name": "올리브오일",
+    "effect": "Moisturizing",
+    "ingredient_type": "Oil",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 25,
+    "ingredient_name": "코코넛오일",
+    "effect": "Moisturizing",
+    "ingredient_type": "Oil",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 26,
+    "ingredient_name": "로즈힙열매오일",
+    "effect": "Regeneration",
+    "ingredient_type": "Oil",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 27,
+    "ingredient_name": "라벤더오일",
+    "effect": "Soothing",
+    "ingredient_type": "Essential Oil",
+    "is_allergic": true
+  },
+  {
+    "ingredient_id": 28,
+    "ingredient_name": "티타늄디옥사이드",
+    "effect": "UV Filter",
+    "ingredient_type": "Physical UV Filter",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 29,
+    "ingredient_name": "징크옥사이드",
+    "effect": "UV Filter",
+    "ingredient_type": "Physical UV Filter",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 30,
+    "ingredient_name": "에칠헥실메톡시신나메이트",
+    "effect": "UV Filter",
+    "ingredient_type": "Chemical UV Filter",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 31,
+    "ingredient_name": "소듐라우릴설페이트",
+    "effect": "Cleansing",
+    "ingredient_type": "Surfactant",
+    "is_allergic": true
+  },
+  {
+    "ingredient_id": 32,
+    "ingredient_name": "코코암포다이아세테이트",
+    "effect": "Cleansing",
+    "ingredient_type": "Surfactant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 33,
+    "ingredient_name": "코코일글루타메이트",
+    "effect": "Cleansing",
+    "ingredient_type": "Surfactant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 34,
+    "ingredient_name": "소듐코코일이세시오네이트",
+    "effect": "Cleansing",
+    "ingredient_type": "Surfactant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 35,
+    "ingredient_name": "비즈왁스",
+    "effect": "Emollient",
+    "ingredient_type": "Wax",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 36,
+    "ingredient_name": "카나우바왁스",
+    "effect": "Film Forming",
+    "ingredient_type": "Wax",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 37,
+    "ingredient_name": "아르간오일",
+    "effect": "Moisturizing",
+    "ingredient_type": "Oil",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 38,
+    "ingredient_name": "카멜리아씨오일",
+    "effect": "Moisturizing",
+    "ingredient_type": "Oil",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 39,
+    "ingredient_name": "마카다미아씨오일",
+    "effect": "Moisturizing",
+    "ingredient_type": "Oil",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 40,
+    "ingredient_name": "세테아릴알코올",
+    "effect": "Emulsifier",
+    "ingredient_type": "Fatty Alcohol",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 41,
+    "ingredient_name": "비사보롤",
+    "effect": "Soothing",
+    "ingredient_type": "Anti-inflammatory",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 42,
+    "ingredient_name": "아이언옥사이드",
+    "effect": "Colorant",
+    "ingredient_type": "Colorant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 43,
+    "ingredient_name": "마이카",
+    "effect": "Colorant",
+    "ingredient_type": "Colorant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 44,
+    "ingredient_name": "케라틴",
+    "effect": "Hair Repair",
+    "ingredient_type": "Protein",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 45,
+    "ingredient_name": "바이오틴",
+    "effect": "Hair Strengthening",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 46,
+    "ingredient_name": "멘톨",
+    "effect": "Cooling",
+    "ingredient_type": "Cooling Agent",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 98,
+    "ingredient_name": "감초추출물",
+    "effect": "Soothing",
+    "ingredient_type": "Plant Extract",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 99,
+    "ingredient_name": "소듐히알루로네이트",
+    "effect": "Moisturizing",
+    "ingredient_type": "Humectant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 114,
+    "ingredient_name": "하이드롤라이즈드콜라겐",
+    "effect": "Anti-aging",
+    "ingredient_type": "Protein",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 133,
+    "ingredient_name": "티트리잎추출물",
+    "effect": "Anti-acne",
+    "ingredient_type": "Plant Extract",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 142,
+    "ingredient_name": "콜라겐",
+    "effect": "Anti-aging",
+    "ingredient_type": "Protein",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 143,
+    "ingredient_name": "병풀추출물",
+    "effect": "Soothing",
+    "ingredient_type": "Plant Extract",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 172,
+    "ingredient_name": "아스코빅애씨드",
+    "effect": "Brightening",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 174,
+    "ingredient_name": "어성초추출물",
+    "effect": "Anti-inflammatory",
+    "ingredient_type": "Plant Extract",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 248,
+    "ingredient_name": "하이드롤라이즈드히알루로닉애씨드",
+    "effect": "Moisturizing",
+    "ingredient_type": "Humectant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 251,
+    "ingredient_name": "히알루로닉애씨드",
+    "effect": "Moisturizing",
+    "ingredient_type": "Humectant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 275,
+    "ingredient_name": "세라마이드NP",
+    "effect": "Barrier Repair",
+    "ingredient_type": "Lipid",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 277,
+    "ingredient_name": "나이아신아마이드(아데노신보조)",
+    "effect": "Anti-wrinkle",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 341,
+    "ingredient_name": "나이아신아마이드",
+    "effect": "Brightening",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 357,
+    "ingredient_name": "판테놀",
+    "effect": "Soothing",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 391,
+    "ingredient_name": "글라이콜릭애씨드",
+    "effect": "Exfoliating",
+    "ingredient_type": "AHA",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 397,
+    "ingredient_name": "살리실릭애씨드",
+    "effect": "Exfoliating",
+    "ingredient_type": "BHA",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 454,
+    "ingredient_name": "마데카소사이드",
+    "effect": "Soothing",
+    "ingredient_type": "Plant Extract",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 518,
+    "ingredient_name": "글루코노락톤",
+    "effect": "Exfoliating",
+    "ingredient_type": "PHA",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 559,
+    "ingredient_name": "아세틸헥사펩타이드-8",
+    "effect": "Anti-wrinkle",
+    "ingredient_type": "Peptide",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 649,
+    "ingredient_name": "스쿠알란",
+    "effect": "Moisturizing",
+    "ingredient_type": "Emollient",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 847,
+    "ingredient_name": "세라마이드AS",
+    "effect": "Barrier Repair",
+    "ingredient_type": "Lipid",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 848,
+    "ingredient_name": "세라마이드AP",
+    "effect": "Barrier Repair",
+    "ingredient_type": "Lipid",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 849,
+    "ingredient_name": "세라마이드NS",
+    "effect": "Barrier Repair",
+    "ingredient_type": "Lipid",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 850,
+    "ingredient_name": "세라마이드EOP",
+    "effect": "Barrier Repair",
+    "ingredient_type": "Lipid",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 914,
+    "ingredient_name": "레티놀",
+    "effect": "Anti-wrinkle",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 940,
+    "ingredient_name": "알부틴",
+    "effect": "Brightening",
+    "ingredient_type": "Brightening Agent",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 955,
+    "ingredient_name": "3-O-에틸아스코빅애씨드",
+    "effect": "Brightening",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 969,
+    "ingredient_name": "세라마이드",
+    "effect": "Barrier Repair",
+    "ingredient_type": "Lipid",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 970,
+    "ingredient_name": "세라마이드NG",
+    "effect": "Barrier Repair",
+    "ingredient_type": "Lipid",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 977,
+    "ingredient_name": "락틱애씨드",
+    "effect": "Exfoliating",
+    "ingredient_type": "AHA",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 991,
+    "ingredient_name": "팔미토일트라이펩타이드-5",
+    "effect": "Anti-wrinkle",
+    "ingredient_type": "Peptide",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1138,
+    "ingredient_name": "우레아",
+    "effect": "Moisturizing",
+    "ingredient_type": "Humectant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1172,
+    "ingredient_name": "엘라스틴",
+    "effect": "Anti-aging",
+    "ingredient_type": "Protein",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1279,
+    "ingredient_name": "카페인",
+    "effect": "Circulation",
+    "ingredient_type": "Stimulant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1310,
+    "ingredient_name": "글루타치온",
+    "effect": "Brightening",
+    "ingredient_type": "Antioxidant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1391,
+    "ingredient_name": "글루타티온",
+    "effect": "Brightening",
+    "ingredient_type": "Antioxidant",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1544,
+    "ingredient_name": "PDRN",
+    "effect": "Regeneration",
+    "ingredient_type": "Nucleotide",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1603,
+    "ingredient_name": "알파-알부틴",
+    "effect": "Brightening",
+    "ingredient_type": "Brightening Agent",
+    "is_allergic": false
+  },
+  {
+    "ingredient_id": 1635,
+    "ingredient_name": "덱스판테놀",
+    "effect": "Soothing",
+    "ingredient_type": "Vitamin",
+    "is_allergic": false
+  }
+]
