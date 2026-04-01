@@ -8,7 +8,7 @@ const SUGGESTIONS = [
   "5000원 이하 보습 크림 추천해주세요",
 ];
 
-export default function ChatPanel() {
+export default function ChatPanel({ productCode, embedded = false }) {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
@@ -31,7 +31,8 @@ export default function ChatPanel() {
 
     try {
       const response = await sendChatMessage(
-        newMessages.map((m) => ({ role: m.role, content: m.content }))
+        newMessages.map((m) => ({ role: m.role, content: m.content })),
+        productCode
       );
       setMessages([
         ...newMessages,
@@ -57,6 +58,72 @@ export default function ChatPanel() {
     }
   };
 
+  // 모달 내 embedded 모드
+  if (embedded) {
+    return (
+      <div className="chat-embedded">
+        <div className="chat-messages">
+          {messages.length === 0 && (
+            <div className="chat-welcome">
+              <p>이 제품에 대해 궁금한 점을 물어보세요!</p>
+              <div className="chat-suggestions">
+                {SUGGESTIONS.map((s, i) => (
+                  <button
+                    key={i}
+                    className="suggestion-btn"
+                    onClick={() => handleSend(s)}
+                  >
+                    {s}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {messages.map((msg, i) => (
+            <div key={i} className={`chat-message ${msg.role}`}>
+              {msg.role === "assistant" && (
+                <span className="chat-avatar">🧴</span>
+              )}
+              <div className="chat-bubble">
+                <p>{msg.content}</p>
+              </div>
+            </div>
+          ))}
+
+          {loading && (
+            <div className="chat-message assistant">
+              <span className="chat-avatar">🧴</span>
+              <div className="chat-bubble">
+                <div className="typing-indicator">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+              </div>
+            </div>
+          )}
+          <div ref={messagesEndRef} />
+        </div>
+
+        <div className="chat-input">
+          <input
+            type="text"
+            placeholder="이 제품에 대해 질문하세요..."
+            value={input}
+            onChange={(e) => setInput(e.target.value)}
+            onKeyDown={handleKeyDown}
+            disabled={loading}
+          />
+          <button onClick={() => handleSend()} disabled={loading || !input.trim()}>
+            전송
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  // 플로팅 모드 (기본)
   return (
     <>
       {/* 토글 버튼 */}

@@ -2,10 +2,12 @@ import React, { useState, useEffect } from "react";
 import { fetchProductDetail, fetchProductAbsa, fetchProductReviews } from "../api";
 import IngredientSection from "./IngredientSection";
 import ReviewSummary from "./ReviewSummary";
+import ChatPanel from "./ChatPanel";
 
 const TABS = [
   { key: "ingredients", label: "성분 분석" },
   { key: "reviews", label: "리뷰 분석" },
+  { key: "ai", label: "AI 상담" },
 ];
 
 const CONCERN_LABELS = {
@@ -101,15 +103,19 @@ export default function ProductModal({ product, onClose }) {
 
         {/* 내용 */}
         <div className="modal-body">
-          {loading ? (
+          {loading && tab !== "ai" ? (
             <div className="modal-loading">
               <div className="spinner" />
               <p>데이터를 불러오는 중...</p>
             </div>
           ) : tab === "ingredients" ? (
             <IngredientSection ingredients={detail?.ingredients || []} />
-          ) : (
+          ) : tab === "reviews" ? (
             <ReviewSummary absa={absa} reviews={reviews} />
+          ) : (
+            <div className="modal-chat">
+              <ChatPanel productCode={product.product_code} embedded />
+            </div>
           )}
         </div>
       </div>

@@ -42,7 +42,9 @@ export async function searchIngredients(query) {
 }
 
 // AI 대화
-export async function sendChatMessage(messages) {
-  const { data } = await api.post("/chat", { messages });
+export async function sendChatMessage(messages, productCode) {
+  const body = { messages };
+  if (productCode) body.productCode = productCode;
+  const { data } = await api.post("/chat", body);
   return data;
 }
