@@ -1,0 +1,92 @@
+{
+  "concerns": {
+    "wrinkle": {
+      "label": "주름/노화",
+      "icon": "🔬",
+      "description": "레티놀, 아데노신 등 주름 개선 성분이 포함된 제품",
+      "key_ingredient_ids": [914, 15, 277, 341, 559, 560, 991, 1544, 142, 114, 1172],
+      "key_ingredient_names": ["레티놀", "레티닐팔미테이트", "아데노신", "나이아신아마이드", "아세틸헥사펩타이드-8", "카퍼트라이펩타이드-1", "팔미토일트라이펩타이드-5", "PDRN", "콜라겐", "하이드롤라이즈드콜라겐", "엘라스틴"],
+      "functional_flag": "is_wrinkle_reduction"
+    },
+    "moisture": {
+      "label": "보습/건조",
+      "icon": "💧",
+      "description": "히알루론산, 세라마이드 등 보습 성분이 풍부한 제품",
+      "key_ingredient_ids": [251, 99, 248, 9, 969, 275, 848, 849, 850, 847, 970, 649, 357, 1635, 1138],
+      "key_ingredient_names": ["히알루로닉애씨드", "소듐히알루로네이트", "하이드롤라이즈드히알루로닉애씨드", "글리세린", "세라마이드", "세라마이드NP", "세라마이드AP", "세라마이드NS", "세라마이드EOP", "세라마이드AS", "세라마이드NG", "스쿠알란", "판테놀", "덱스판테놀", "우레아"]
+    },
+    "acne": {
+      "label": "트러블/뾰루지",
+      "icon": "🛡️",
+      "description": "살리실산, 티트리 등 트러블 케어 성분이 포함된 제품",
+      "key_ingredient_ids": [397, 133, 174, 143, 454],
+      "key_ingredient_names": ["살리실릭애씨드", "티트리잎추출물", "어성초추출물", "병풀추출물", "마데카소사이드"],
+      "functional_flag": "is_acne"
+    },
+    "brightening": {
+      "label": "미백/톤업",
+      "icon": "✨",
+      "description": "나이아신아마이드, 비타민C 등 미백 성분이 포함된 제품",
+      "key_ingredient_ids": [341, 172, 955, 940, 1603, 1310, 1391],
+      "key_ingredient_names": ["나이아신아마이드", "아스코빅애씨드", "3-O-에틸아스코빅애씨드", "알부틴", "알파-알부틴", "글루타치온", "글루타티온"],
+      "functional_flag": "is_whitening"
+    },
+    "pore": {
+      "label": "모공",
+      "icon": "🔍",
+      "description": "BHA, 나이아신아마이드 등 모공 관리 성분이 포함된 제품",
+      "key_ingredient_ids": [397, 341, 518, 1279, 391],
+      "key_ingredient_names": ["살리실릭애씨드", "나이아신아마이드", "글루코노락톤", "카페인", "글라이콜릭애씨드"]
+    },
+    "soothing": {
+      "label": "진정/민감",
+      "icon": "🌿",
+      "description": "병풀, 알란토인 등 진정 성분이 포함된 제품",
+      "key_ingredient_ids": [143, 454, 21, 357, 11, 98],
+      "key_ingredient_names": ["병풀추출물", "마데카소사이드", "알란토인", "판테놀", "녹차추출물", "감초추출물"]
+    },
+    "suncare": {
+      "label": "자외선차단",
+      "icon": "☀️",
+      "description": "자외선 차단 기능이 있는 제품",
+      "key_ingredient_ids": [],
+      "key_ingredient_names": [],
+      "functional_flag": "is_sunscreen",
+      "category_filter": "자외선차단제"
+    },
+    "exfoliation": {
+      "label": "각질/피부결",
+      "icon": "🧴",
+      "description": "AHA, BHA 등 각질 케어 성분이 포함된 제품",
+      "key_ingredient_ids": [391, 977, 397, 518, 1138],
+      "key_ingredient_names": ["글라이콜릭애씨드", "락틱애씨드", "살리실릭애씨드", "글루코노락톤", "우레아"]
+    }
+  },
+  "skin_types": {
+    "dry": {
+      "label": "건성",
+      "description": "수분/유분 부족",
+      "prefer_effects": ["Moisturizing", "Lipid", "Polyol"],
+      "avoid_types": ["Alcohol"]
+    },
+    "oily": {
+      "label": "지성",
+      "description": "피지 과다",
+      "prefer_effects": ["Astringent"],
+      "avoid_types": ["Wax", "Heavy Oil"]
+    },
+    "combination": {
+      "label": "복합성",
+      "description": "T존 지성 + U존 건성",
+      "prefer_effects": ["Balancing"],
+      "avoid_types": []
+    },
+    "sensitive": {
+      "label": "민감성",
+      "description": "자극에 민감",
+      "prefer_effects": ["Soothing", "Anti-inflammatory"],
+      "avoid_allergic": true,
+      "avoid_types": ["Fragrance", "Essential Oil"]
+    }
+  }
+}
