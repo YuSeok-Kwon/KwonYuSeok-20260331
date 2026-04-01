@@ -1,25 +1,47 @@
 # 다이소 뷰티 AI 컨시어지
 
-> 다이소에서 판매하는 뷰티 제품의 성분과 리뷰를 AI가 분석하여 피부 고민에 맞는 제품을 추천하는 웹 서비스입니다.
+> 다이소 뷰티 제품의 성분과 리뷰를 AI가 분석하여, 피부 고민에 맞는 제품을 추천하는 웹 서비스입니다.
 
-## 프로젝트 개요
+**배포 URL**
+- Frontend: https://client-gray-three.vercel.app
+- Backend API: https://daiso-beauty-ai-server.onrender.com
 
-다이소몰에서 크롤링한 **950개 뷰티 제품**, **393K개 리뷰**, **1,741개 성분** 데이터를 기반으로 구축한 AI 뷰티 컨시어지 서비스입니다.
+---
 
-### 핵심 기능
-- **피부 고민 기반 필터링**: 주름, 보습, 트러블, 미백, 모공, 진정, 자외선차단, 각질 8가지 고민별 제품 검색
-- **성분 분석**: 제품별 전성분 표시 및 피부 고민과 연관된 핵심 성분 하이라이트
-- **ABSA 리뷰 분석**: Aspect-Based Sentiment Analysis로 9개 측면(가격, 사용감, 디자인 등)별 긍정/부정 비율 시각화
-- **AI 대화 추천**: ChatGPT 기반 대화형 제품 추천 (Function Calling으로 실제 데이터 검색)
+## 강조 포인트
+
+### 1. 데이터 기반 설계 — "감"이 아닌 "근거"로 추천합니다
+
+과제1에서 설계한 피부 고민-성분 매핑을 실제 데이터로 구현했습니다.
+8가지 피부 고민(주름, 보습, 트러블, 미백, 모공, 진정, 자외선차단, 각질)별로 핵심 성분 ID를 정의하고, 제품의 전성분 목록과 매칭하여 **"이 제품이 왜 이 고민에 적합한지"** 성분 근거를 함께 제시합니다.
+
+### 2. ABSA 리뷰 분석 — 리뷰를 "읽는" 것이 아닌 "구조화"합니다
+
+393K개 리뷰에 Aspect-Based Sentiment Analysis를 적용하여, 단순 별점이 아닌 **8개 측면(보습력, 자극도, 발림성, 가성비, 향, 지속력, 피부개선, 패키지)별 긍정/부정 비율**을 시각화합니다. 사용자는 자신이 중요하게 생각하는 측면의 만족도를 한눈에 파악할 수 있습니다.
+
+### 3. ChatGPT Function Calling — AI가 "추측"이 아닌 "검색"합니다
+
+일반적인 ChatGPT 래퍼와 달리, Function Calling을 통해 AI가 실제 제품 데이터베이스를 검색합니다.
+- `searchProducts`: 피부 고민/카테고리/키워드로 제품 검색
+- `getProductDetail`: 특정 제품의 성분 정보 조회
+- `getProductReviews`: ABSA 분석 결과 및 대표 리뷰 조회
+
+AI의 답변에 포함되는 제품명, 가격, 성분 정보가 모두 **실제 데이터에 기반**합니다.
+
+### 4. 제품 컨텍스트 주입 — 모달에서 바로 상담합니다
+
+제품 상세 모달의 "AI 상담" 탭에서는 해당 제품의 성분, ABSA 요약, 대표 리뷰를 시스템 프롬프트에 자동 주입합니다. 사용자가 별도 설명 없이 "이 제품 어때?" 라고만 물어도 AI가 정확한 맥락에서 답변할 수 있습니다.
+
+---
 
 ## 기술 스택
 
 | 영역 | 기술 |
 |---|---|
-| Frontend | React 19, Recharts, Axios |
-| Backend | Node.js, Express |
+| Frontend | React 19, Context API, Recharts, react-markdown |
+| Backend | Node.js, Express 5 |
 | AI | OpenAI GPT-4o-mini (Function Calling) |
-| Data | BigQuery → JSON (크롤링 데이터) |
+| Data | BigQuery → JSON (크롤링 데이터 기반) |
 | Deploy | Vercel (Frontend) + Render (Backend) |
 
 ## 아키텍처
@@ -42,52 +64,58 @@
               → getProductReviews
 ```
 
+## 설계 의도
+
+### 데이터 퍼스트 전략
+
+BQ에 적재된 크롤링 데이터를 JSON으로 export하여 서버 메모리에 로딩하는 방식을 선택했습니다.
+- 별도 DB 없이 빠른 조회가 가능합니다.
+- 200개 제품 규모에서 충분한 성능을 확인했습니다.
+- 배포 환경에서 외부 DB 의존성을 제거하여 인프라 복잡도를 낮췄습니다.
+
+### 과제1과의 연결
+
+과제1에서 설계한 "다이소 뷰티 AI 컨시어지" MVP의 핵심 기능을 실제로 구현했습니다.
+- ABSA 분석 결과를 제품별 리뷰 요약에 활용합니다.
+- 피부 고민-성분 매핑을 데이터 기반으로 정의했습니다.
+- ChatGPT Function Calling으로 대화형 추천을 구현했습니다.
+
+### 토큰 최적화
+
+ChatGPT API 호출 시 전체 제품 DB를 전달하지 않고, Function Calling으로 필요한 데이터만 검색하여 토큰 사용량을 최소화했습니다. 제품 컨텍스트 주입 시에도 상위 성분 10개, ABSA 요약, 대표 리뷰 1건만 추출하여 토큰을 절약합니다.
+
+---
+
+## 아쉬운 점 & 개선 여지
+
+### 데이터 한계
+- **이미지 미포함**: 다이소몰 크롤링 데이터에 제품 이미지 URL이 포함되어 있지 않아, 텍스트 기반 카드로 대체했습니다. 이미지가 추가되면 사용자 경험이 크게 향상될 것입니다.
+- **정적 데이터**: 실시간 가격/재고를 반영하지 못합니다. 주기적 크롤링 파이프라인을 연결하면 해결 가능합니다.
+
+### 기능 확장 가능성
+- **대화 히스토리 저장**: 현재 세션 기반으로만 동작합니다. DB를 연결하면 사용자별 대화 이력을 유지할 수 있습니다.
+- **성분 알러지 프로필**: 사용자가 기피 성분을 등록하면, 해당 성분이 포함된 제품을 자동 필터링하는 기능을 추가할 수 있습니다.
+- **유사 제품 추천**: 성분 유사도 기반으로 "이 제품과 비슷한 제품" 추천이 가능합니다.
+
+### 성능 개선
+- **서버 사이드 검색 최적화**: 현재 전체 데이터를 메모리에서 선형 탐색합니다. 제품 수가 수천 개 이상으로 확대되면 인덱싱이 필요합니다.
+- **Render 무료 플랜 콜드 스타트**: 첫 요청 시 서버 기동에 30초~1분 소요됩니다. 유료 플랜 또는 다른 호스팅으로 해결 가능합니다.
+
+---
+
 ## 설치 및 실행
 
-### 사전 요구사항
-- Node.js 18+
-- OpenAI API Key
-
-### 백엔드
+> **Node.js 18+** 및 **OpenAI API Key**가 필요합니다.
 
 ```bash
-cd server
-npm install
-cp ../.env.example ../.env  # OPENAI_API_KEY 입력
-npm start                   # http://localhost:4000
-```
+# 백엔드
+cd server && npm install
+cp ../.env.example ../.env   # OPENAI_API_KEY 입력
+node index.js                # http://localhost:4000
 
-### 프론트엔드
-
-```bash
-cd client
-npm install
-npm start                   # http://localhost:3000
-```
-
-### 환경 변수
-
-```
-OPENAI_API_KEY=sk-...       # OpenAI API 키
-PORT=4000                   # 서버 포트 (기본: 4000)
-CORS_ORIGIN=*               # CORS 허용 오리진
-REACT_APP_API_URL=http://localhost:4000/api  # API 서버 주소
-```
-
-## 데이터 파이프라인
-
-```
-BigQuery (daiso-analysis.daiso)
-    ↓  scripts/export-bq.js
-server/data/raw/ (원시 JSON)
-    ↓  scripts/transform-data.js
-server/data/ (가공 JSON)
-    ├── products.json      : 제품 마스터 + skin_concerns 태그
-    ├── ingredients.json   : 제품별 성분 목록
-    ├── ingredients_dic.json : 성분 사전
-    ├── absa.json          : 제품별 ABSA 감성 분석 결과
-    ├── reviews.json       : 대표 긍정/부정 리뷰
-    └── skin-concerns.json : 피부 고민-성분 매핑 정의
+# 프론트엔드
+cd client && npm install
+npm start                    # http://localhost:3000
 ```
 
 ## 피부 고민-성분 매핑
@@ -102,70 +130,6 @@ server/data/ (가공 JSON)
 | 진정/민감 | 병풀(시카), 알란토인, 판테놀, 녹차, 감초 |
 | 자외선차단 | 티타늄디옥사이드, 징크옥사이드 등 UV 필터 |
 | 각질/피부결 | AHA, BHA, PHA, 우레아 |
-
-## API 엔드포인트
-
-| Method | Path | 설명 |
-|---|---|---|
-| GET | `/api/products` | 제품 목록 (필터, 정렬, 페이지네이션) |
-| GET | `/api/products/:code` | 제품 상세 + 성분 |
-| GET | `/api/products/:code/absa` | ABSA 리뷰 감성 분석 |
-| GET | `/api/products/:code/reviews` | 대표 리뷰 텍스트 |
-| GET | `/api/skin-concerns` | 피부 고민-성분 매핑 |
-| GET | `/api/ingredients/search?q=` | 성분명 검색 |
-| POST | `/api/chat` | AI 대화 (ChatGPT) |
-
-## 설계 의도
-
-### 과제1과의 연결
-과제1에서 설계한 "다이소 뷰티 AI 컨시어지" MVP의 핵심 기능을 구현했습니다.
-- ABSA 분석 결과를 제품별 리뷰 요약에 활용
-- 피부 고민-성분 매핑을 데이터 기반으로 정의
-- ChatGPT Function Calling으로 대화형 추천 구현
-
-### 데이터 퍼스트 전략
-BQ에 적재된 크롤링 데이터를 JSON으로 export하여 서버 메모리에 로딩하는 방식을 선택했습니다.
-- 별도 DB 없이 빠른 조회 가능
-- 950개 제품 규모에서 충분한 성능
-- 배포 환경에서 외부 DB 의존성 제거
-
-### 아쉬운 점 & 개선 여지
-- 이미지 URL 미포함 (다이소몰 직접 크롤링 시 추가 가능)
-- 실시간 가격/재고 반영 미지원
-- 사용자별 대화 히스토리 저장 미구현 (세션 기반)
-- 모바일 앱 대응 미흡
-
-## 프로젝트 구조
-
-```
-├── client/                   # React 프론트엔드
-│   └── src/
-│       ├── api/index.js      # API 클라이언트
-│       ├── context/AppContext.js  # 전역 상태
-│       └── components/
-│           ├── Header.js     # 헤더
-│           ├── Footer.js     # 푸터
-│           ├── FilterBar.js  # 필터 바
-│           ├── ProductCard.js    # 제품 카드
-│           ├── ProductGrid.js    # 제품 그리드
-│           ├── ProductModal.js   # 제품 상세 모달
-│           ├── IngredientSection.js  # 성분 표시
-│           ├── ReviewSummary.js  # ABSA 차트
-│           └── ChatPanel.js  # AI 대화
-├── server/                   # Node.js 백엔드
-│   ├── index.js              # Express 진입점
-│   ├── data/
-│   │   ├── loader.js         # 데이터 로딩 모듈
-│   │   └── *.json            # 가공 데이터
-│   └── routes/
-│       ├── products.js       # 제품 API
-│       ├── ingredients.js    # 성분/피부고민 API
-│       └── chat.js           # ChatGPT API
-├── scripts/
-│   ├── export-bq.js          # BQ → JSON 추출
-│   └── transform-data.js     # 데이터 변환
-└── .env.example              # 환경 변수 템플릿
-```
 
 ---
 
