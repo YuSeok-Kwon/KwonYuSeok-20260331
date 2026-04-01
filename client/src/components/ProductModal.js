@@ -63,12 +63,8 @@ export default function ProductModal({ product, onClose }) {
 
         {/* 헤더 */}
         <div className="modal-header">
-          <div className="modal-product-image">
-            <div className="card-image-placeholder large">
-              <span>{product.category_2 || "뷰티"}</span>
-            </div>
-          </div>
-          <div className="modal-product-info">
+          <div className="modal-product-info" style={{ flex: 1 }}>
+            <span className="modal-category">{product.category_1} &gt; {product.category_2}</span>
             <p className="modal-brand">{product.brand_name}</p>
             <h2 className="modal-name">{product.name}</h2>
             <p className="modal-price">{product.price.toLocaleString()}원</p>

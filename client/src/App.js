@@ -41,10 +41,15 @@ function Main() {
   return (
     <div className="app">
       <Header />
-      <main className="main-content">
-        <FilterBar />
-        <ProductGrid onProductClick={setSelectedProduct} />
-      </main>
+      <div className="main-layout">
+        <main className="main-content">
+          <FilterBar />
+          <ProductGrid onProductClick={setSelectedProduct} />
+        </main>
+        <aside className="chat-sidebar">
+          <ChatPanel embedded />
+        </aside>
+      </div>
       <Footer />
       {selectedProduct && (
         <ProductModal
@@ -52,7 +57,6 @@ function Main() {
           onClose={() => setSelectedProduct(null)}
         />
       )}
-      <ChatPanel />
     </div>
   );
 }

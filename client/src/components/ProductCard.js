@@ -17,12 +17,11 @@ export default function ProductCard({ product, onClick }) {
 
   return (
     <div className="product-card" onClick={() => onClick(product)}>
-      <div className="card-image">
-        <div className="card-image-placeholder">
-          <span>{category_2 || "뷰티"}</span>
-        </div>
-      </div>
       <div className="card-body">
+        <div className="card-top-row">
+          <span className="card-category">{category_2 || "뷰티"}</span>
+          <span className="card-reviews">리뷰 {review_count.toLocaleString()}개</span>
+        </div>
         <p className="card-brand">{brand_name}</p>
         <h3 className="card-name">{name}</h3>
         <p className="card-price">{price.toLocaleString()}원</p>
@@ -33,7 +32,6 @@ export default function ProductCard({ product, onClick }) {
             </span>
           ))}
         </div>
-        <p className="card-reviews">리뷰 {review_count.toLocaleString()}개</p>
       </div>
     </div>
   );

@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
+import ReactMarkdown from "react-markdown";
 import { sendChatMessage } from "../api";
 
 const SUGGESTIONS = [
@@ -58,14 +59,20 @@ export default function ChatPanel({ productCode, embedded = false }) {
     }
   };
 
-  // 모달 내 embedded 모드
+  // embedded 모드 (사이드바 또는 모달 내)
   if (embedded) {
     return (
       <div className="chat-embedded">
+        {!productCode && (
+          <div className="chat-sidebar-header">
+            <h3>🧴 AI 뷰티 컨시어지</h3>
+            <p>피부 고민을 말씀해주세요!</p>
+          </div>
+        )}
         <div className="chat-messages">
           {messages.length === 0 && (
             <div className="chat-welcome">
-              <p>이 제품에 대해 궁금한 점을 물어보세요!</p>
+              <p>{productCode ? "이 제품에 대해 궁금한 점을 물어보세요!" : "안녕하세요! 다이소 뷰티 AI 컨시어지입니다."}</p>
               <div className="chat-suggestions">
                 {SUGGESTIONS.map((s, i) => (
                   <button
@@ -86,7 +93,7 @@ export default function ChatPanel({ productCode, embedded = false }) {
                 <span className="chat-avatar">🧴</span>
               )}
               <div className="chat-bubble">
-                <p>{msg.content}</p>
+                <ReactMarkdown>{msg.content}</ReactMarkdown>
               </div>
             </div>
           ))}
@@ -166,7 +173,7 @@ export default function ChatPanel({ productCode, embedded = false }) {
                 <span className="chat-avatar">🧴</span>
               )}
               <div className="chat-bubble">
-                <p>{msg.content}</p>
+                <ReactMarkdown>{msg.content}</ReactMarkdown>
               </div>
             </div>
           ))}
