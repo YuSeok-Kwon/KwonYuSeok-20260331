@@ -6,7 +6,6 @@ import {
   YAxis,
   Tooltip,
   ResponsiveContainer,
-  Cell,
 } from "recharts";
 
 const COLORS = { positive: "#4CAF50", negative: "#F44336", neutral: "#9E9E9E" };
