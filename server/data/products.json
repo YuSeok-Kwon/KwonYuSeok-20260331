@@ -15,7 +15,11 @@
     "likes": 1205,
     "engagement_score": 3.27,
     "cp_index": 61.4,
-    "skin_concerns": ["wrinkle", "brightening", "moisture"]
+    "skin_concerns": [
+      "wrinkle",
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P002",
@@ -33,7 +37,11 @@
     "likes": 1534,
     "engagement_score": 3.64,
     "cp_index": 70.17,
-    "skin_concerns": ["wrinkle", "brightening", "moisture"]
+    "skin_concerns": [
+      "wrinkle",
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P003",
@@ -51,7 +59,11 @@
     "likes": 987,
     "engagement_score": 3.15,
     "cp_index": 31.34,
-    "skin_concerns": ["wrinkle", "brightening", "moisture"]
+    "skin_concerns": [
+      "wrinkle",
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P004",
@@ -69,7 +81,10 @@
     "likes": 654,
     "engagement_score": 3.31,
     "cp_index": 32.9,
-    "skin_concerns": ["brightening", "moisture"]
+    "skin_concerns": [
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P005",
@@ -87,7 +102,10 @@
     "likes": 432,
     "engagement_score": 2.83,
     "cp_index": 25.43,
-    "skin_concerns": ["moisture", "soothing"]
+    "skin_concerns": [
+      "moisture",
+      "soothing"
+    ]
   },
   {
     "product_code": "P006",
@@ -105,7 +123,10 @@
     "likes": 387,
     "engagement_score": 3.12,
     "cp_index": 20.7,
-    "skin_concerns": ["moisture", "soothing"]
+    "skin_concerns": [
+      "moisture",
+      "soothing"
+    ]
   },
   {
     "product_code": "P007",
@@ -123,7 +144,11 @@
     "likes": 312,
     "engagement_score": 2.92,
     "cp_index": 17.8,
-    "skin_concerns": ["soothing", "moisture", "acne"]
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "acne"
+    ]
   },
   {
     "product_code": "P008",
@@ -141,7 +166,10 @@
     "likes": 276,
     "engagement_score": 3.35,
     "cp_index": 13.73,
-    "skin_concerns": ["brightening", "moisture"]
+    "skin_concerns": [
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P009",
@@ -159,7 +187,12 @@
     "likes": 876,
     "engagement_score": 3.55,
     "cp_index": 24.68,
-    "skin_concerns": ["acne", "soothing", "moisture", "exfoliation"]
+    "skin_concerns": [
+      "acne",
+      "soothing",
+      "moisture",
+      "exfoliation"
+    ]
   },
   {
     "product_code": "P010",
@@ -177,7 +210,11 @@
     "likes": 543,
     "engagement_score": 3.1,
     "cp_index": 29.2,
-    "skin_concerns": ["acne", "soothing", "pore"]
+    "skin_concerns": [
+      "acne",
+      "soothing",
+      "pore"
+    ]
   },
   {
     "product_code": "P011",
@@ -195,7 +232,11 @@
     "likes": 432,
     "engagement_score": 3.3,
     "cp_index": 13.08,
-    "skin_concerns": ["wrinkle", "brightening", "moisture"]
+    "skin_concerns": [
+      "wrinkle",
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P012",
@@ -213,7 +254,9 @@
     "likes": 321,
     "engagement_score": 2.96,
     "cp_index": 18.1,
-    "skin_concerns": ["moisture"]
+    "skin_concerns": [
+      "moisture"
+    ]
   },
   {
     "product_code": "P013",
@@ -231,7 +274,10 @@
     "likes": 876,
     "engagement_score": 3.32,
     "cp_index": 44.03,
-    "skin_concerns": ["soothing", "moisture"]
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
   },
   {
     "product_code": "P014",
@@ -249,7 +295,11 @@
     "likes": 287,
     "engagement_score": 3.32,
     "cp_index": 8.64,
-    "skin_concerns": ["wrinkle", "brightening", "moisture"]
+    "skin_concerns": [
+      "wrinkle",
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P015",
@@ -267,7 +317,11 @@
     "likes": 465,
     "engagement_score": 3.22,
     "cp_index": 24.1,
-    "skin_concerns": ["soothing", "moisture", "acne"]
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "acne"
+    ]
   },
   {
     "product_code": "P016",
@@ -285,7 +339,12 @@
     "likes": 234,
     "engagement_score": 2.94,
     "cp_index": 13.27,
-    "skin_concerns": ["acne", "pore", "exfoliation", "brightening"]
+    "skin_concerns": [
+      "acne",
+      "pore",
+      "exfoliation",
+      "brightening"
+    ]
   },
   {
     "product_code": "P017",
@@ -303,7 +362,11 @@
     "likes": 345,
     "engagement_score": 3.04,
     "cp_index": 18.9,
-    "skin_concerns": ["exfoliation", "pore", "moisture"]
+    "skin_concerns": [
+      "exfoliation",
+      "pore",
+      "moisture"
+    ]
   },
   {
     "product_code": "P018",
@@ -321,7 +384,10 @@
     "likes": 612,
     "engagement_score": 3.44,
     "cp_index": 17.82,
-    "skin_concerns": ["brightening", "moisture"]
+    "skin_concerns": [
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P019",
@@ -339,7 +405,9 @@
     "likes": 678,
     "engagement_score": 3.22,
     "cp_index": 35.13,
-    "skin_concerns": ["moisture"]
+    "skin_concerns": [
+      "moisture"
+    ]
   },
   {
     "product_code": "P020",
@@ -357,7 +425,10 @@
     "likes": 198,
     "engagement_score": 2.87,
     "cp_index": 11.5,
-    "skin_concerns": ["wrinkle", "moisture"]
+    "skin_concerns": [
+      "wrinkle",
+      "moisture"
+    ]
   },
   {
     "product_code": "P021",
@@ -375,7 +446,10 @@
     "likes": 1654,
     "engagement_score": 3.53,
     "cp_index": 234.1,
-    "skin_concerns": ["moisture", "soothing"]
+    "skin_concerns": [
+      "moisture",
+      "soothing"
+    ]
   },
   {
     "product_code": "P022",
@@ -393,7 +467,10 @@
     "likes": 1321,
     "engagement_score": 3.33,
     "cp_index": 198.7,
-    "skin_concerns": ["acne", "soothing"]
+    "skin_concerns": [
+      "acne",
+      "soothing"
+    ]
   },
   {
     "product_code": "P023",
@@ -411,7 +488,10 @@
     "likes": 1098,
     "engagement_score": 3.32,
     "cp_index": 165.4,
-    "skin_concerns": ["wrinkle", "moisture"]
+    "skin_concerns": [
+      "wrinkle",
+      "moisture"
+    ]
   },
   {
     "product_code": "P024",
@@ -429,7 +509,11 @@
     "likes": 765,
     "engagement_score": 3.41,
     "cp_index": 112.3,
-    "skin_concerns": ["soothing", "moisture", "acne"]
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "acne"
+    ]
   },
   {
     "product_code": "P025",
@@ -537,7 +621,10 @@
     "likes": 1876,
     "engagement_score": 3.65,
     "cp_index": 51.34,
-    "skin_concerns": ["suncare", "brightening"]
+    "skin_concerns": [
+      "suncare",
+      "brightening"
+    ]
   },
   {
     "product_code": "P031",
@@ -555,7 +642,9 @@
     "likes": 654,
     "engagement_score": 3.31,
     "cp_index": 32.9,
-    "skin_concerns": ["brightening"]
+    "skin_concerns": [
+      "brightening"
+    ]
   },
   {
     "product_code": "P032",
@@ -573,7 +662,10 @@
     "likes": 498,
     "engagement_score": 3.25,
     "cp_index": 25.5,
-    "skin_concerns": ["brightening", "suncare"]
+    "skin_concerns": [
+      "brightening",
+      "suncare"
+    ]
   },
   {
     "product_code": "P033",
@@ -645,7 +737,9 @@
     "likes": 543,
     "engagement_score": 3.1,
     "cp_index": 43.8,
-    "skin_concerns": ["soothing"]
+    "skin_concerns": [
+      "soothing"
+    ]
   },
   {
     "product_code": "P037",
@@ -663,7 +757,10 @@
     "likes": 398,
     "engagement_score": 3.04,
     "cp_index": 32.7,
-    "skin_concerns": ["acne", "soothing"]
+    "skin_concerns": [
+      "acne",
+      "soothing"
+    ]
   },
   {
     "product_code": "P038",
@@ -681,7 +778,9 @@
     "likes": 1087,
     "engagement_score": 3.52,
     "cp_index": 30.86,
-    "skin_concerns": ["moisture"]
+    "skin_concerns": [
+      "moisture"
+    ]
   },
   {
     "product_code": "P039",
@@ -699,7 +798,9 @@
     "likes": 267,
     "engagement_score": 3.09,
     "cp_index": 21.6,
-    "skin_concerns": ["soothing"]
+    "skin_concerns": [
+      "soothing"
+    ]
   },
   {
     "product_code": "P040",
@@ -717,7 +818,10 @@
     "likes": 2567,
     "engagement_score": 3.71,
     "cp_index": 69.12,
-    "skin_concerns": ["suncare", "brightening"]
+    "skin_concerns": [
+      "suncare",
+      "brightening"
+    ]
   },
   {
     "product_code": "P041",
@@ -735,7 +839,10 @@
     "likes": 1654,
     "engagement_score": 3.53,
     "cp_index": 78.17,
-    "skin_concerns": ["suncare", "brightening"]
+    "skin_concerns": [
+      "suncare",
+      "brightening"
+    ]
   },
   {
     "product_code": "P042",
@@ -753,7 +860,11 @@
     "likes": 654,
     "engagement_score": 3.31,
     "cp_index": 32.9,
-    "skin_concerns": ["suncare", "soothing", "moisture"]
+    "skin_concerns": [
+      "suncare",
+      "soothing",
+      "moisture"
+    ]
   },
   {
     "product_code": "P043",
@@ -771,7 +882,10 @@
     "likes": 487,
     "engagement_score": 3.18,
     "cp_index": 25.5,
-    "skin_concerns": ["moisture", "soothing"]
+    "skin_concerns": [
+      "moisture",
+      "soothing"
+    ]
   },
   {
     "product_code": "P044",
@@ -789,7 +903,9 @@
     "likes": 876,
     "engagement_score": 3.55,
     "cp_index": 123.4,
-    "skin_concerns": ["moisture"]
+    "skin_concerns": [
+      "moisture"
+    ]
   },
   {
     "product_code": "P045",
@@ -807,7 +923,9 @@
     "likes": 567,
     "engagement_score": 3.24,
     "cp_index": 87.6,
-    "skin_concerns": ["moisture"]
+    "skin_concerns": [
+      "moisture"
+    ]
   },
   {
     "product_code": "P046",
@@ -861,7 +979,12 @@
     "likes": 965,
     "engagement_score": 3.37,
     "cp_index": 47.73,
-    "skin_concerns": ["exfoliation", "brightening", "pore", "moisture"]
+    "skin_concerns": [
+      "exfoliation",
+      "brightening",
+      "pore",
+      "moisture"
+    ]
   },
   {
     "product_code": "P049",
@@ -879,7 +1002,10 @@
     "likes": 198,
     "engagement_score": 3.08,
     "cp_index": 10.7,
-    "skin_concerns": ["brightening", "moisture"]
+    "skin_concerns": [
+      "brightening",
+      "moisture"
+    ]
   },
   {
     "product_code": "P050",
@@ -897,7 +1023,11 @@
     "likes": 345,
     "engagement_score": 3.04,
     "cp_index": 11.34,
-    "skin_concerns": ["pore", "exfoliation", "brightening"]
+    "skin_concerns": [
+      "pore",
+      "exfoliation",
+      "brightening"
+    ]
   },
   {
     "product_code": "P051",
@@ -915,7 +1045,11 @@
     "likes": 498,
     "engagement_score": 3.16,
     "cp_index": 26.3,
-    "skin_concerns": ["soothing", "moisture", "acne"]
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "acne"
+    ]
   },
   {
     "product_code": "P052",
@@ -934,5 +1068,3006 @@
     "engagement_score": 3.48,
     "cp_index": 54.9,
     "skin_concerns": []
+  },
+  {
+    "product_code": "P053",
+    "name": "닥터지 톤업 선밀크 SPF50+",
+    "price": 3500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "닥터지",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 505,
+    "likes": 311,
+    "engagement_score": 2.29,
+    "cp_index": 26.1,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P054",
+    "name": "셀퓨전씨 시카 클렌징 워터",
+    "price": 3500,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 217,
+    "likes": 137,
+    "engagement_score": 1.73,
+    "cp_index": 59.5,
+    "skin_concerns": [
+      "moisture",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P055",
+    "name": "셀퓨전씨 프로틴 헤어 트리트먼트",
+    "price": 1500,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2003,
+    "likes": 1085,
+    "engagement_score": 1.65,
+    "cp_index": 52.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P056",
+    "name": "홀리카홀리카 케라틴 딥 트리트먼트",
+    "price": 3000,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4765,
+    "likes": 3133,
+    "engagement_score": 1.7,
+    "cp_index": 83.9,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P057",
+    "name": "아로마티카 딥 클렌징 오일",
+    "price": 2000,
+    "category_1": "클렌징",
+    "category_2": "클렌징오일",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2529,
+    "likes": 1184,
+    "engagement_score": 4.24,
+    "cp_index": 37.2,
+    "skin_concerns": [
+      "moisture",
+      "soothing",
+      "pore"
+    ]
+  },
+  {
+    "product_code": "P058",
+    "name": "페리페라 벨벳 틴트",
+    "price": 3500,
+    "category_1": "메이크업",
+    "category_2": "립제품",
+    "brand_name": "페리페라",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4342,
+    "likes": 1787,
+    "engagement_score": 4.83,
+    "cp_index": 43.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P059",
+    "name": "에뛰드 머스크 바디워시",
+    "price": 3000,
+    "category_1": "바디케어",
+    "category_2": "바디워시",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 107,
+    "likes": 48,
+    "engagement_score": 3.24,
+    "cp_index": 20.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P060",
+    "name": "이즈앤트리 치크 블러셔",
+    "price": 5000,
+    "category_1": "메이크업",
+    "category_2": "블러셔/하이라이터",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 961,
+    "likes": 671,
+    "engagement_score": 2.67,
+    "cp_index": 56.6,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P061",
+    "name": "홀리카홀리카 아르간 오일 헤어 세럼",
+    "price": 3000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1589,
+    "likes": 905,
+    "engagement_score": 1.51,
+    "cp_index": 56,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P062",
+    "name": "아로마티카 볼륨 마스카라",
+    "price": 1500,
+    "category_1": "메이크업",
+    "category_2": "마스카라",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1397,
+    "likes": 629,
+    "engagement_score": 1.44,
+    "cp_index": 65.3,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P063",
+    "name": "VT 롱앤컬 마스카라",
+    "price": 4000,
+    "category_1": "메이크업",
+    "category_2": "마스카라",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1694,
+    "likes": 1284,
+    "engagement_score": 1.41,
+    "cp_index": 26.2,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P064",
+    "name": "페리페라 시카 선크림 SPF50+",
+    "price": 1500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "페리페라",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 1100,
+    "likes": 722,
+    "engagement_score": 3.45,
+    "cp_index": 87.5,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P065",
+    "name": "셀퓨전씨 시어버터 바디로션",
+    "price": 2500,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4695,
+    "likes": 3380,
+    "engagement_score": 4.89,
+    "cp_index": 35.6,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P066",
+    "name": "이즈앤트리 실크 헤어 에센스",
+    "price": 2500,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3089,
+    "likes": 1412,
+    "engagement_score": 1.6,
+    "cp_index": 27.8,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P067",
+    "name": "애경 시어버터 핸드크림",
+    "price": 1500,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "애경",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 902,
+    "likes": 643,
+    "engagement_score": 3.33,
+    "cp_index": 77.7,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P068",
+    "name": "에뛰드 수분 선세럼 SPF50+",
+    "price": 3000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 4953,
+    "likes": 2668,
+    "engagement_score": 4.78,
+    "cp_index": 75.5,
+    "skin_concerns": [
+      "suncare",
+      "moisture",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P069",
+    "name": "셀퓨전씨 치크 블러셔",
+    "price": 3500,
+    "category_1": "메이크업",
+    "category_2": "블러셔/하이라이터",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2082,
+    "likes": 1446,
+    "engagement_score": 2.35,
+    "cp_index": 68.6,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P070",
+    "name": "에뛰드 케라틴 헤어 에센스",
+    "price": 3000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2564,
+    "likes": 1182,
+    "engagement_score": 3.33,
+    "cp_index": 45.7,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P071",
+    "name": "스킨푸드 시어버터 핸드크림",
+    "price": 5000,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "스킨푸드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 246,
+    "likes": 173,
+    "engagement_score": 4.1,
+    "cp_index": 45.7,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P072",
+    "name": "페리페라 시카 클렌징 워터",
+    "price": 1000,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "페리페라",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4362,
+    "likes": 1791,
+    "engagement_score": 2.33,
+    "cp_index": 32.2,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P073",
+    "name": "메디힐 케라틴 헤어 에센스",
+    "price": 5000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1937,
+    "likes": 1265,
+    "engagement_score": 2.63,
+    "cp_index": 52.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P074",
+    "name": "미샤 무드 블러셔 팔레트",
+    "price": 4000,
+    "category_1": "메이크업",
+    "category_2": "블러셔/하이라이터",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3299,
+    "likes": 1619,
+    "engagement_score": 3.34,
+    "cp_index": 46.3,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P075",
+    "name": "VT 실크 헤어 에센스",
+    "price": 1500,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3229,
+    "likes": 1810,
+    "engagement_score": 2.79,
+    "cp_index": 39.8,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P076",
+    "name": "홀리카홀리카 매트 아이팔레트",
+    "price": 2000,
+    "category_1": "메이크업",
+    "category_2": "아이섀도",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2417,
+    "likes": 1429,
+    "engagement_score": 2.42,
+    "cp_index": 43.5,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P077",
+    "name": "메디힐 머스크 바디워시",
+    "price": 1000,
+    "category_1": "바디케어",
+    "category_2": "바디워시",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3123,
+    "likes": 2339,
+    "engagement_score": 3.2,
+    "cp_index": 56.4,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P078",
+    "name": "아로마티카 약산성 클렌징 폼",
+    "price": 1000,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 1267,
+    "likes": 631,
+    "engagement_score": 4.6,
+    "cp_index": 72.9,
+    "skin_concerns": [
+      "pore",
+      "soothing",
+      "acne"
+    ]
+  },
+  {
+    "product_code": "P079",
+    "name": "메디힐 로즈 클렌징 워터",
+    "price": 1000,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2947,
+    "likes": 1871,
+    "engagement_score": 2.45,
+    "cp_index": 37.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P080",
+    "name": "스킨푸드 매트 아이팔레트",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "아이섀도",
+    "brand_name": "스킨푸드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2228,
+    "likes": 1184,
+    "engagement_score": 4.55,
+    "cp_index": 67.6,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P081",
+    "name": "이니스프리 로즈 클렌징 워터",
+    "price": 4000,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "이니스프리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2440,
+    "likes": 1924,
+    "engagement_score": 2.83,
+    "cp_index": 27.9,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P082",
+    "name": "클리오 프로폴리스 영양 크림",
+    "price": 4000,
+    "category_1": "스킨케어",
+    "category_2": "크림",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3569,
+    "likes": 1828,
+    "engagement_score": 3.62,
+    "cp_index": 76.6,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P083",
+    "name": "홀리카홀리카 손상모 집중 트리트먼트",
+    "price": 3000,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 222,
+    "likes": 159,
+    "engagement_score": 3.09,
+    "cp_index": 46.7,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P084",
+    "name": "미샤 톤업 선밀크 SPF50+",
+    "price": 5000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 1168,
+    "likes": 697,
+    "engagement_score": 4.42,
+    "cp_index": 39.2,
+    "skin_concerns": [
+      "suncare",
+      "moisture",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P085",
+    "name": "아로마티카 데일리 선크림 SPF50+",
+    "price": 3000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 872,
+    "likes": 499,
+    "engagement_score": 4.43,
+    "cp_index": 52.7,
+    "skin_concerns": [
+      "suncare",
+      "moisture",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P086",
+    "name": "클리오 콜라겐 탄력 로션",
+    "price": 5000,
+    "category_1": "스킨케어",
+    "category_2": "로션/에멀전",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 347,
+    "likes": 212,
+    "engagement_score": 1.57,
+    "cp_index": 44.5,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P087",
+    "name": "이니스프리 허니 영양 핸드크림",
+    "price": 5000,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "이니스프리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3145,
+    "likes": 1809,
+    "engagement_score": 1.27,
+    "cp_index": 88.4,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P088",
+    "name": "바이오힐보 세라마이드 바디로션",
+    "price": 1500,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3787,
+    "likes": 1666,
+    "engagement_score": 2.89,
+    "cp_index": 68.3,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P089",
+    "name": "더마토리 시카 선크림 SPF50+",
+    "price": 3000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 170,
+    "likes": 124,
+    "engagement_score": 3.69,
+    "cp_index": 82.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P090",
+    "name": "더마토리 녹차 밸런싱 로션",
+    "price": 4000,
+    "category_1": "스킨케어",
+    "category_2": "로션/에멀전",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1807,
+    "likes": 1035,
+    "engagement_score": 2.3,
+    "cp_index": 58,
+    "skin_concerns": [
+      "brightening"
+    ]
+  },
+  {
+    "product_code": "P091",
+    "name": "아로마티카 손상모 집중 트리트먼트",
+    "price": 3500,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 99,
+    "likes": 50,
+    "engagement_score": 4.03,
+    "cp_index": 26.4,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P092",
+    "name": "더마토리 시카 클렌징 워터",
+    "price": 2000,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3346,
+    "likes": 2568,
+    "engagement_score": 3.95,
+    "cp_index": 33.8,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P093",
+    "name": "에뛰드 마일드 클렌징 워터",
+    "price": 2500,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4341,
+    "likes": 2030,
+    "engagement_score": 3.64,
+    "cp_index": 89.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P094",
+    "name": "더마토리 톤업 선밀크 SPF50+",
+    "price": 3500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 3075,
+    "likes": 1805,
+    "engagement_score": 3.23,
+    "cp_index": 49.6,
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P095",
+    "name": "홀리카홀리카 어성초 진정 토너",
+    "price": 4000,
+    "category_1": "스킨케어",
+    "category_2": "스킨/토너",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 90,
+    "likes": 50,
+    "engagement_score": 3.13,
+    "cp_index": 60.8,
+    "skin_concerns": [
+      "moisture",
+      "pore",
+      "exfoliation"
+    ]
+  },
+  {
+    "product_code": "P096",
+    "name": "손앤박 시카 리페어 크림",
+    "price": 4000,
+    "category_1": "스킨케어",
+    "category_2": "크림",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 944,
+    "likes": 569,
+    "engagement_score": 2.73,
+    "cp_index": 55.2,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P097",
+    "name": "페리페라 톤업 선밀크 SPF50+",
+    "price": 5000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "페리페라",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 3195,
+    "likes": 2250,
+    "engagement_score": 4.27,
+    "cp_index": 68.9,
+    "skin_concerns": [
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P098",
+    "name": "네이처리퍼블릭 프로틴 헤어 트리트먼트",
+    "price": 2500,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "네이처리퍼블릭",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1313,
+    "likes": 946,
+    "engagement_score": 1.88,
+    "cp_index": 85.7,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P099",
+    "name": "애경 펩타이드 리프팅 마스크",
+    "price": 3500,
+    "category_1": "스킨케어",
+    "category_2": "마스크팩",
+    "brand_name": "애경",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3616,
+    "likes": 2138,
+    "engagement_score": 4.51,
+    "cp_index": 67.1,
+    "skin_concerns": [
+      "moisture",
+      "brightening"
+    ]
+  },
+  {
+    "product_code": "P100",
+    "name": "토니모리 실크 헤어 에센스",
+    "price": 1500,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "토니모리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4333,
+    "likes": 2664,
+    "engagement_score": 1.05,
+    "cp_index": 87.2,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P101",
+    "name": "이즈앤트리 시카 선크림 SPF50+",
+    "price": 1000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 3412,
+    "likes": 2159,
+    "engagement_score": 4.99,
+    "cp_index": 34.7,
+    "skin_concerns": [
+      "suncare",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P102",
+    "name": "미샤 약산성 클렌징 폼",
+    "price": 4000,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 3634,
+    "likes": 2074,
+    "engagement_score": 4.59,
+    "cp_index": 89.6,
+    "skin_concerns": [
+      "pore",
+      "acne",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P103",
+    "name": "클리오 프로틴 헤어 트리트먼트",
+    "price": 1500,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 449,
+    "likes": 258,
+    "engagement_score": 3.18,
+    "cp_index": 30.9,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P104",
+    "name": "클리오 아르간 오일 헤어 세럼",
+    "price": 1000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4892,
+    "likes": 3588,
+    "engagement_score": 3.96,
+    "cp_index": 85,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P105",
+    "name": "VT 알로에 바디 수딩 로션",
+    "price": 3500,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 478,
+    "likes": 206,
+    "engagement_score": 1.47,
+    "cp_index": 84.6,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P106",
+    "name": "미샤 케라틴 헤어 에센스",
+    "price": 2000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4448,
+    "likes": 2472,
+    "engagement_score": 2.83,
+    "cp_index": 63,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P107",
+    "name": "클리오 히알루론산 수분 토너",
+    "price": 1500,
+    "category_1": "스킨케어",
+    "category_2": "스킨/토너",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4436,
+    "likes": 2534,
+    "engagement_score": 1.11,
+    "cp_index": 62.8,
+    "skin_concerns": [
+      "moisture",
+      "pore"
+    ]
+  },
+  {
+    "product_code": "P108",
+    "name": "셀퓨전씨 글로우 쿠션",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "베이스/파운데이션",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3362,
+    "likes": 2085,
+    "engagement_score": 4.5,
+    "cp_index": 43.1,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P109",
+    "name": "바이오힐보 세미매트 파운데이션",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "베이스/파운데이션",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1904,
+    "likes": 1385,
+    "engagement_score": 1.94,
+    "cp_index": 39.4,
+    "skin_concerns": [
+      "moisture",
+      "brightening"
+    ]
+  },
+  {
+    "product_code": "P110",
+    "name": "롬앤 글로우 하이라이터",
+    "price": 3000,
+    "category_1": "메이크업",
+    "category_2": "블러셔/하이라이터",
+    "brand_name": "롬앤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3428,
+    "likes": 1384,
+    "engagement_score": 4.02,
+    "cp_index": 49.5,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P111",
+    "name": "닥터지 마일드 클렌징 워터",
+    "price": 1500,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "닥터지",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2203,
+    "likes": 1511,
+    "engagement_score": 3.47,
+    "cp_index": 38.2,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P112",
+    "name": "에뛰드 톤업 선밀크 SPF50+",
+    "price": 2500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 429,
+    "likes": 212,
+    "engagement_score": 1.24,
+    "cp_index": 23.5,
+    "skin_concerns": [
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P113",
+    "name": "손앤박 케라틴 헤어 에센스",
+    "price": 1500,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 269,
+    "likes": 124,
+    "engagement_score": 3.34,
+    "cp_index": 45.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P114",
+    "name": "미샤 수분 선세럼 SPF50+",
+    "price": 4000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 1773,
+    "likes": 1272,
+    "engagement_score": 2.01,
+    "cp_index": 58.2,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P115",
+    "name": "손앤박 무드 싱글 섀도",
+    "price": 1500,
+    "category_1": "메이크업",
+    "category_2": "아이섀도",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4860,
+    "likes": 3345,
+    "engagement_score": 4.55,
+    "cp_index": 30.2,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P116",
+    "name": "메디힐 티트리 클렌징 폼",
+    "price": 2500,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2533,
+    "likes": 1197,
+    "engagement_score": 2.44,
+    "cp_index": 32,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P117",
+    "name": "이니스프리 마일드 클렌징 워터",
+    "price": 1000,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "이니스프리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 603,
+    "likes": 306,
+    "engagement_score": 2.02,
+    "cp_index": 40.3,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P118",
+    "name": "아로마티카 로즈힙 클렌징 오일",
+    "price": 2000,
+    "category_1": "클렌징",
+    "category_2": "클렌징오일",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 553,
+    "likes": 278,
+    "engagement_score": 4.02,
+    "cp_index": 30.1,
+    "skin_concerns": [
+      "moisture",
+      "soothing",
+      "pore"
+    ]
+  },
+  {
+    "product_code": "P119",
+    "name": "스킨푸드 시카 리페어 크림",
+    "price": 2000,
+    "category_1": "스킨케어",
+    "category_2": "크림",
+    "brand_name": "스킨푸드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3506,
+    "likes": 2667,
+    "engagement_score": 2.75,
+    "cp_index": 51.3,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P120",
+    "name": "바이오힐보 딥 클렌징 오일",
+    "price": 1500,
+    "category_1": "클렌징",
+    "category_2": "클렌징오일",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4656,
+    "likes": 2339,
+    "engagement_score": 1.62,
+    "cp_index": 77.8,
+    "skin_concerns": [
+      "pore",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P121",
+    "name": "에뛰드 케라틴 딥 트리트먼트",
+    "price": 1000,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3454,
+    "likes": 2670,
+    "engagement_score": 3.1,
+    "cp_index": 71.3,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P122",
+    "name": "메디힐 히알루론 수분 클렌징 폼",
+    "price": 2000,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 2287,
+    "likes": 992,
+    "engagement_score": 4.8,
+    "cp_index": 53.8,
+    "skin_concerns": [
+      "soothing",
+      "pore",
+      "acne"
+    ]
+  },
+  {
+    "product_code": "P123",
+    "name": "바이오힐보 톤업 선밀크 SPF50+",
+    "price": 4000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 2859,
+    "likes": 1986,
+    "engagement_score": 4.6,
+    "cp_index": 46.4,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P124",
+    "name": "클리오 비타민C 브라이트닝 마스크",
+    "price": 5000,
+    "category_1": "스킨케어",
+    "category_2": "마스크팩",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2185,
+    "likes": 923,
+    "engagement_score": 1.31,
+    "cp_index": 71.6,
+    "skin_concerns": [
+      "soothing",
+      "brightening",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P125",
+    "name": "손앤박 티트리 클리어 마스크",
+    "price": 4000,
+    "category_1": "스킨케어",
+    "category_2": "마스크팩",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 209,
+    "likes": 117,
+    "engagement_score": 3.29,
+    "cp_index": 66.3,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P126",
+    "name": "에뛰드 데일리 선크림 SPF50+",
+    "price": 1500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 4698,
+    "likes": 3358,
+    "engagement_score": 4.37,
+    "cp_index": 31.9,
+    "skin_concerns": [
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P127",
+    "name": "VT 커버 쿠션",
+    "price": 5000,
+    "category_1": "메이크업",
+    "category_2": "베이스/파운데이션",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4446,
+    "likes": 3023,
+    "engagement_score": 1.21,
+    "cp_index": 71.4,
+    "skin_concerns": [
+      "brightening",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P128",
+    "name": "롬앤 콜라겐 바운스 크림",
+    "price": 3500,
+    "category_1": "스킨케어",
+    "category_2": "크림",
+    "brand_name": "롬앤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1424,
+    "likes": 951,
+    "engagement_score": 3.55,
+    "cp_index": 79.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P129",
+    "name": "아로마티카 시어버터 바디로션",
+    "price": 5000,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 936,
+    "likes": 716,
+    "engagement_score": 4.81,
+    "cp_index": 43.5,
+    "skin_concerns": [
+      "moisture",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P130",
+    "name": "이즈앤트리 글리터 아이섀도",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "아이섀도",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3122,
+    "likes": 1284,
+    "engagement_score": 1.28,
+    "cp_index": 29,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P131",
+    "name": "스킨푸드 프라이머",
+    "price": 2000,
+    "category_1": "메이크업",
+    "category_2": "베이스/파운데이션",
+    "brand_name": "스킨푸드",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1430,
+    "likes": 968,
+    "engagement_score": 4.51,
+    "cp_index": 61.9,
+    "skin_concerns": [
+      "brightening",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P132",
+    "name": "롬앤 손상모 집중 트리트먼트",
+    "price": 4000,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "롬앤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 308,
+    "likes": 233,
+    "engagement_score": 4.22,
+    "cp_index": 33.2,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P133",
+    "name": "더마토리 펩타이드 리프팅 세럼",
+    "price": 4000,
+    "category_1": "스킨케어",
+    "category_2": "세럼/앰플",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2339,
+    "likes": 963,
+    "engagement_score": 4.01,
+    "cp_index": 85.9,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P134",
+    "name": "이즈앤트리 로즈 핸드크림",
+    "price": 2500,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4283,
+    "likes": 2839,
+    "engagement_score": 4.05,
+    "cp_index": 76.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P135",
+    "name": "네이처리퍼블릭 수분 선세럼 SPF50+",
+    "price": 5000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "네이처리퍼블릭",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 1792,
+    "likes": 1050,
+    "engagement_score": 1.51,
+    "cp_index": 71.8,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P136",
+    "name": "스킨푸드 무드 싱글 섀도",
+    "price": 1000,
+    "category_1": "메이크업",
+    "category_2": "아이섀도",
+    "brand_name": "스킨푸드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2677,
+    "likes": 1949,
+    "engagement_score": 3.67,
+    "cp_index": 71.6,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P137",
+    "name": "아로마티카 수분 선세럼 SPF50+",
+    "price": 2500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "아로마티카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 3786,
+    "likes": 2044,
+    "engagement_score": 1.81,
+    "cp_index": 56.1,
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P138",
+    "name": "롬앤 글로우 쿠션",
+    "price": 2000,
+    "category_1": "메이크업",
+    "category_2": "베이스/파운데이션",
+    "brand_name": "롬앤",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3634,
+    "likes": 2011,
+    "engagement_score": 1.51,
+    "cp_index": 38.9,
+    "skin_concerns": [
+      "brightening",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P139",
+    "name": "롬앤 실크 헤어 에센스",
+    "price": 3000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "롬앤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2363,
+    "likes": 1619,
+    "engagement_score": 4.93,
+    "cp_index": 65.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P140",
+    "name": "더마토리 무드 블러셔 팔레트",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "블러셔/하이라이터",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1978,
+    "likes": 964,
+    "engagement_score": 3.5,
+    "cp_index": 48.9,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P141",
+    "name": "메디힐 약산성 바디워시",
+    "price": 3500,
+    "category_1": "바디케어",
+    "category_2": "바디워시",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4924,
+    "likes": 2182,
+    "engagement_score": 4.68,
+    "cp_index": 45.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P142",
+    "name": "손앤박 허니 영양 핸드크림",
+    "price": 1000,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4832,
+    "likes": 2392,
+    "engagement_score": 3.6,
+    "cp_index": 41.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P143",
+    "name": "VT 데일리 선크림 SPF50+",
+    "price": 4000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 3087,
+    "likes": 1659,
+    "engagement_score": 3.76,
+    "cp_index": 43.3,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P144",
+    "name": "바이오힐보 마일드 클렌징 워터",
+    "price": 1500,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2558,
+    "likes": 1572,
+    "engagement_score": 4.57,
+    "cp_index": 52,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P145",
+    "name": "셀퓨전씨 AHA 필링 토너",
+    "price": 3500,
+    "category_1": "스킨케어",
+    "category_2": "스킨/토너",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3185,
+    "likes": 1440,
+    "engagement_score": 1.03,
+    "cp_index": 61.5,
+    "skin_concerns": [
+      "exfoliation",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P146",
+    "name": "네이처리퍼블릭 PHA 리뉴얼 필링",
+    "price": 4000,
+    "category_1": "클렌징",
+    "category_2": "필링/스크럽",
+    "brand_name": "네이처리퍼블릭",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 4024,
+    "likes": 2636,
+    "engagement_score": 2.14,
+    "cp_index": 51.3,
+    "skin_concerns": [
+      "exfoliation",
+      "acne"
+    ]
+  },
+  {
+    "product_code": "P147",
+    "name": "클리오 데일리 선크림 SPF50+",
+    "price": 1500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 4584,
+    "likes": 2271,
+    "engagement_score": 3.08,
+    "cp_index": 25.3,
+    "skin_concerns": [
+      "soothing",
+      "suncare",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P148",
+    "name": "더마토리 어성초 진정 토너",
+    "price": 2000,
+    "category_1": "스킨케어",
+    "category_2": "스킨/토너",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1489,
+    "likes": 666,
+    "engagement_score": 3.59,
+    "cp_index": 49.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P149",
+    "name": "롬앤 로즈 클렌징 워터",
+    "price": 2500,
+    "category_1": "클렌징",
+    "category_2": "클렌징워터",
+    "brand_name": "롬앤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2383,
+    "likes": 1192,
+    "engagement_score": 2.57,
+    "cp_index": 68,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P150",
+    "name": "토니모리 시어버터 핸드크림",
+    "price": 1000,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "토니모리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3965,
+    "likes": 2474,
+    "engagement_score": 1.28,
+    "cp_index": 42.9,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P151",
+    "name": "홀리카홀리카 티트리 클렌징 폼",
+    "price": 2000,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4290,
+    "likes": 3234,
+    "engagement_score": 2.28,
+    "cp_index": 60.2,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P152",
+    "name": "VT 머스크 바디워시",
+    "price": 1500,
+    "category_1": "바디케어",
+    "category_2": "바디워시",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 954,
+    "likes": 414,
+    "engagement_score": 4.3,
+    "cp_index": 59.5,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P153",
+    "name": "미샤 프로틴 헤어 트리트먼트",
+    "price": 1000,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 889,
+    "likes": 577,
+    "engagement_score": 4.17,
+    "cp_index": 26,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P154",
+    "name": "토니모리 티트리 클리어 마스크",
+    "price": 3500,
+    "category_1": "스킨케어",
+    "category_2": "마스크팩",
+    "brand_name": "토니모리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2288,
+    "likes": 1200,
+    "engagement_score": 3.75,
+    "cp_index": 34.4,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P155",
+    "name": "애경 로즈 핸드크림",
+    "price": 3000,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "애경",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2478,
+    "likes": 1235,
+    "engagement_score": 4.8,
+    "cp_index": 49.4,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P156",
+    "name": "토니모리 콜라겐 탄력 마스크팩",
+    "price": 3500,
+    "category_1": "스킨케어",
+    "category_2": "마스크팩",
+    "brand_name": "토니모리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2775,
+    "likes": 1136,
+    "engagement_score": 1.18,
+    "cp_index": 36.2,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P157",
+    "name": "네이처리퍼블릭 펩타이드 탄력 크림",
+    "price": 2500,
+    "category_1": "스킨케어",
+    "category_2": "크림",
+    "brand_name": "네이처리퍼블릭",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": true,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 114,
+    "likes": 72,
+    "engagement_score": 4.35,
+    "cp_index": 86.9,
+    "skin_concerns": [
+      "moisture",
+      "brightening",
+      "wrinkle"
+    ]
+  },
+  {
+    "product_code": "P158",
+    "name": "토니모리 알로에 바디 수딩 로션",
+    "price": 5000,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "토니모리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3667,
+    "likes": 1486,
+    "engagement_score": 4.99,
+    "cp_index": 38.2,
+    "skin_concerns": [
+      "moisture",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P159",
+    "name": "토니모리 케라틴 딥 트리트먼트",
+    "price": 3000,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "토니모리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4961,
+    "likes": 2635,
+    "engagement_score": 3.73,
+    "cp_index": 60.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P160",
+    "name": "메디힐 워터 틴트",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "립제품",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 814,
+    "likes": 575,
+    "engagement_score": 3.8,
+    "cp_index": 38.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P161",
+    "name": "홀리카홀리카 글루타치온 화이트 앰플",
+    "price": 3000,
+    "category_1": "스킨케어",
+    "category_2": "세럼/앰플",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": true,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3476,
+    "likes": 1574,
+    "engagement_score": 4.63,
+    "cp_index": 82.6,
+    "skin_concerns": [
+      "soothing",
+      "wrinkle"
+    ]
+  },
+  {
+    "product_code": "P162",
+    "name": "메디힐 실크 헤어 에센스",
+    "price": 4000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2407,
+    "likes": 1772,
+    "engagement_score": 4.72,
+    "cp_index": 80.4,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P163",
+    "name": "네이처리퍼블릭 워터프루프 마스카라",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "마스카라",
+    "brand_name": "네이처리퍼블릭",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1187,
+    "likes": 774,
+    "engagement_score": 3.97,
+    "cp_index": 30.5,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P164",
+    "name": "스킨푸드 시머 듀오 섀도",
+    "price": 2500,
+    "category_1": "메이크업",
+    "category_2": "아이섀도",
+    "brand_name": "스킨푸드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 916,
+    "likes": 418,
+    "engagement_score": 2.63,
+    "cp_index": 88.2,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P165",
+    "name": "VT 병풀 진정 토너",
+    "price": 1000,
+    "category_1": "스킨케어",
+    "category_2": "스킨/토너",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 3746,
+    "likes": 2497,
+    "engagement_score": 1.47,
+    "cp_index": 35.6,
+    "skin_concerns": [
+      "exfoliation",
+      "moisture",
+      "acne"
+    ]
+  },
+  {
+    "product_code": "P166",
+    "name": "미샤 시카 선크림 SPF50+",
+    "price": 4000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 2806,
+    "likes": 1815,
+    "engagement_score": 4.4,
+    "cp_index": 27.4,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P167",
+    "name": "롬앤 어성초 진정 토너",
+    "price": 4000,
+    "category_1": "스킨케어",
+    "category_2": "스킨/토너",
+    "brand_name": "롬앤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 4868,
+    "likes": 2941,
+    "engagement_score": 1.6,
+    "cp_index": 37.1,
+    "skin_concerns": [
+      "soothing",
+      "acne",
+      "exfoliation"
+    ]
+  },
+  {
+    "product_code": "P168",
+    "name": "이니스프리 알로에 바디 수딩 로션",
+    "price": 5000,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "이니스프리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4699,
+    "likes": 3564,
+    "engagement_score": 2.12,
+    "cp_index": 30.2,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P169",
+    "name": "이즈앤트리 시어버터 핸드크림",
+    "price": 5000,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 963,
+    "likes": 558,
+    "engagement_score": 4.17,
+    "cp_index": 51,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P170",
+    "name": "스킨푸드 립 플럼퍼",
+    "price": 2000,
+    "category_1": "메이크업",
+    "category_2": "립제품",
+    "brand_name": "스킨푸드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 232,
+    "likes": 93,
+    "engagement_score": 1.72,
+    "cp_index": 57.4,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P171",
+    "name": "셀퓨전씨 글로우 하이라이터",
+    "price": 3000,
+    "category_1": "메이크업",
+    "category_2": "블러셔/하이라이터",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 576,
+    "likes": 441,
+    "engagement_score": 1.76,
+    "cp_index": 22,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P172",
+    "name": "바이오힐보 효소 필링 파우더",
+    "price": 1000,
+    "category_1": "클렌징",
+    "category_2": "필링/스크럽",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 3513,
+    "likes": 1713,
+    "engagement_score": 3.67,
+    "cp_index": 63.7,
+    "skin_concerns": [
+      "acne",
+      "exfoliation"
+    ]
+  },
+  {
+    "product_code": "P173",
+    "name": "네이처리퍼블릭 시카 선크림 SPF50+",
+    "price": 1000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "네이처리퍼블릭",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 405,
+    "likes": 261,
+    "engagement_score": 3.29,
+    "cp_index": 86.5,
+    "skin_concerns": [
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P174",
+    "name": "메디힐 아르간 오일 헤어 세럼",
+    "price": 2000,
+    "category_1": "헤어케어",
+    "category_2": "헤어에센스",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4862,
+    "likes": 2547,
+    "engagement_score": 4.08,
+    "cp_index": 44,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P175",
+    "name": "VT 수분 선세럼 SPF50+",
+    "price": 3500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 2646,
+    "likes": 2098,
+    "engagement_score": 3.88,
+    "cp_index": 83.5,
+    "skin_concerns": [
+      "suncare",
+      "moisture",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P176",
+    "name": "손앤박 로즈 핸드크림",
+    "price": 3500,
+    "category_1": "바디케어",
+    "category_2": "핸드크림",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4619,
+    "likes": 3364,
+    "engagement_score": 4.41,
+    "cp_index": 67.1,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P177",
+    "name": "VT 세라마이드 바디로션",
+    "price": 5000,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "VT",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1485,
+    "likes": 832,
+    "engagement_score": 4.79,
+    "cp_index": 25.3,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P178",
+    "name": "홀리카홀리카 데일리 선크림 SPF50+",
+    "price": 2500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 2934,
+    "likes": 1574,
+    "engagement_score": 1.5,
+    "cp_index": 57.5,
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P179",
+    "name": "더마토리 시어버터 바디로션",
+    "price": 3500,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "더마토리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4659,
+    "likes": 2705,
+    "engagement_score": 3.2,
+    "cp_index": 71.2,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P180",
+    "name": "홀리카홀리카 히알루론 수분 마스크",
+    "price": 2000,
+    "category_1": "스킨케어",
+    "category_2": "마스크팩",
+    "brand_name": "홀리카홀리카",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4437,
+    "likes": 2599,
+    "engagement_score": 2.94,
+    "cp_index": 41.5,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P181",
+    "name": "애경 콜라겐 탄력 로션",
+    "price": 2000,
+    "category_1": "스킨케어",
+    "category_2": "로션/에멀전",
+    "brand_name": "애경",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3417,
+    "likes": 2509,
+    "engagement_score": 1.3,
+    "cp_index": 33.7,
+    "skin_concerns": [
+      "brightening"
+    ]
+  },
+  {
+    "product_code": "P182",
+    "name": "미샤 히알루론산 수분 토너",
+    "price": 2000,
+    "category_1": "스킨케어",
+    "category_2": "스킨/토너",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 876,
+    "likes": 470,
+    "engagement_score": 2.13,
+    "cp_index": 66.1,
+    "skin_concerns": [
+      "brightening"
+    ]
+  },
+  {
+    "product_code": "P183",
+    "name": "이즈앤트리 카밀레 클렌징 오일",
+    "price": 2500,
+    "category_1": "클렌징",
+    "category_2": "클렌징오일",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4872,
+    "likes": 3753,
+    "engagement_score": 3.47,
+    "cp_index": 23.9,
+    "skin_concerns": [
+      "pore"
+    ]
+  },
+  {
+    "product_code": "P184",
+    "name": "메디힐 에어핏 선스틱 SPF50+",
+    "price": 5000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 2443,
+    "likes": 1696,
+    "engagement_score": 4.14,
+    "cp_index": 66.6,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P185",
+    "name": "클리오 수분 선세럼 SPF50+",
+    "price": 2500,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 4945,
+    "likes": 2508,
+    "engagement_score": 1.18,
+    "cp_index": 49.2,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P186",
+    "name": "토니모리 데일리 선크림 SPF50+",
+    "price": 2000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "토니모리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 4560,
+    "likes": 1920,
+    "engagement_score": 4.04,
+    "cp_index": 37.3,
+    "skin_concerns": [
+      "soothing",
+      "moisture",
+      "suncare"
+    ]
+  },
+  {
+    "product_code": "P187",
+    "name": "클리오 케라틴 딥 트리트먼트",
+    "price": 1500,
+    "category_1": "헤어케어",
+    "category_2": "트리트먼트",
+    "brand_name": "클리오",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 3418,
+    "likes": 1850,
+    "engagement_score": 1.67,
+    "cp_index": 62.7,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P188",
+    "name": "바이오힐보 알로에 바디 수딩 로션",
+    "price": 2500,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2853,
+    "likes": 1634,
+    "engagement_score": 3.97,
+    "cp_index": 38.3,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P189",
+    "name": "이니스프리 롱앤컬 마스카라",
+    "price": 1500,
+    "category_1": "메이크업",
+    "category_2": "마스카라",
+    "brand_name": "이니스프리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4183,
+    "likes": 2423,
+    "engagement_score": 1.17,
+    "cp_index": 35.1,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P190",
+    "name": "손앤박 펩타이드 탄력 크림",
+    "price": 5000,
+    "category_1": "스킨케어",
+    "category_2": "크림",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": true,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2540,
+    "likes": 1662,
+    "engagement_score": 3.03,
+    "cp_index": 62.1,
+    "skin_concerns": [
+      "moisture",
+      "brightening"
+    ]
+  },
+  {
+    "product_code": "P191",
+    "name": "이즈앤트리 티트리 클렌징 폼",
+    "price": 3500,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "이즈앤트리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 2250,
+    "likes": 1236,
+    "engagement_score": 4.71,
+    "cp_index": 67.6,
+    "skin_concerns": [
+      "acne",
+      "pore",
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P192",
+    "name": "미샤 세라마이드 바디로션",
+    "price": 3000,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "미샤",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 429,
+    "likes": 197,
+    "engagement_score": 3.37,
+    "cp_index": 58.6,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P193",
+    "name": "이니스프리 워터프루프 마스카라",
+    "price": 5000,
+    "category_1": "메이크업",
+    "category_2": "마스카라",
+    "brand_name": "이니스프리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2849,
+    "likes": 1699,
+    "engagement_score": 3.57,
+    "cp_index": 49.9,
+    "skin_concerns": []
+  },
+  {
+    "product_code": "P194",
+    "name": "셀퓨전씨 알로에 바디 수딩 로션",
+    "price": 4000,
+    "category_1": "바디케어",
+    "category_2": "바디로션",
+    "brand_name": "셀퓨전씨",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 1330,
+    "likes": 613,
+    "engagement_score": 3.98,
+    "cp_index": 51,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P195",
+    "name": "닥터지 시카 선크림 SPF50+",
+    "price": 3000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "닥터지",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 4598,
+    "likes": 3546,
+    "engagement_score": 3.54,
+    "cp_index": 59.3,
+    "skin_concerns": [
+      "suncare",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P196",
+    "name": "이니스프리 딥 클렌징 오일",
+    "price": 5000,
+    "category_1": "클렌징",
+    "category_2": "클렌징오일",
+    "brand_name": "이니스프리",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 4139,
+    "likes": 2645,
+    "engagement_score": 1.54,
+    "cp_index": 65.6,
+    "skin_concerns": [
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P197",
+    "name": "에뛰드 세라마이드 에멀전",
+    "price": 1500,
+    "category_1": "스킨케어",
+    "category_2": "로션/에멀전",
+    "brand_name": "에뛰드",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": false,
+    "review_count": 2879,
+    "likes": 1851,
+    "engagement_score": 4.54,
+    "cp_index": 53,
+    "skin_concerns": [
+      "soothing",
+      "moisture"
+    ]
+  },
+  {
+    "product_code": "P198",
+    "name": "바이오힐보 시카 선크림 SPF50+",
+    "price": 5000,
+    "category_1": "선케어",
+    "category_2": "자외선차단제",
+    "brand_name": "바이오힐보",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": true,
+    "is_acne": false,
+    "review_count": 475,
+    "likes": 333,
+    "engagement_score": 1.4,
+    "cp_index": 54.2,
+    "skin_concerns": [
+      "soothing"
+    ]
+  },
+  {
+    "product_code": "P199",
+    "name": "손앤박 티트리 클렌징 폼",
+    "price": 3000,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "손앤박",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 267,
+    "likes": 136,
+    "engagement_score": 2.35,
+    "cp_index": 88.7,
+    "skin_concerns": [
+      "pore",
+      "acne"
+    ]
+  },
+  {
+    "product_code": "P200",
+    "name": "메디힐 시카 마일드 폼",
+    "price": 3500,
+    "category_1": "클렌징",
+    "category_2": "폼클렌징",
+    "brand_name": "메디힐",
+    "image_url": null,
+    "is_whitening": false,
+    "is_wrinkle_reduction": false,
+    "is_sunscreen": false,
+    "is_acne": true,
+    "review_count": 3685,
+    "likes": 2926,
+    "engagement_score": 1.31,
+    "cp_index": 56.4,
+    "skin_concerns": [
+      "acne",
+      "pore"
+    ]
   }
 ]
