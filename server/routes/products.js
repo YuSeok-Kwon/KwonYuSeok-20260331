@@ -72,6 +72,28 @@ router.get("/", (req, res) => {
   });
 });
 
+// GET /api/products/categories — 카테고리 목록
+router.get("/categories", (req, res) => {
+  const products = data.getProducts();
+  const categoryMap = {};
+
+  for (const p of products) {
+    if (!categoryMap[p.category_1]) {
+      categoryMap[p.category_1] = new Set();
+    }
+    if (p.category_2) {
+      categoryMap[p.category_1].add(p.category_2);
+    }
+  }
+
+  const categories = Object.entries(categoryMap).map(([cat1, cat2Set]) => ({
+    category_1: cat1,
+    category_2: [...cat2Set].sort(),
+  }));
+
+  res.json(categories);
+});
+
 // GET /api/products/:code — 제품 상세
 router.get("/:code", (req, res) => {
   const product = data.getProductByCode(req.params.code);

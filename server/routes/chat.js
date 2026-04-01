@@ -180,10 +180,38 @@ function handleFunctionCall(name, args) {
   }
 }
 
+// 제품 컨텍스트 빌더 (토큰 최적화)
+function buildProductContext(productCode) {
+  const product = data.getProductByCode(productCode);
+  if (!product) return null;
+
+  const ingredients = data.getIngredients(productCode);
+  const absa = data.getAbsa(productCode);
+  const reviews = data.getReviews(productCode);
+
+  const topIngredients = ingredients.slice(0, 10).map((i) => i.ingredient_name).join(", ");
+
+  const absaSummary = Object.entries(absa)
+    .map(([aspect, d]) => `${aspect}: 긍정 ${d.positive_rate}%`)
+    .join(", ");
+
+  const topReview = reviews.positive?.[0]?.text || "";
+
+  return `[현재 제품 정보]
+이름: ${product.name}
+브랜드: ${product.brand_name}
+가격: ${product.price}원
+카테고리: ${product.category_1} > ${product.category_2}
+피부고민 태그: ${product.skin_concerns.join(", ")}
+주요 성분: ${topIngredients}
+ABSA 요약: ${absaSummary}
+대표 리뷰: "${topReview}"`;
+}
+
 // POST /api/chat
 router.post("/", async (req, res) => {
   try {
-    const { messages } = req.body;
+    const { messages, productCode } = req.body;
 
     if (!messages || !Array.isArray(messages)) {
       return res.status(400).json({ error: "messages 배열이 필요합니다." });
@@ -193,7 +221,15 @@ router.post("/", async (req, res) => {
       return res.status(500).json({ error: "OpenAI API 키가 설정되지 않았습니다." });
     }
 
-    const chatMessages = [{ role: "system", content: SYSTEM_PROMPT }, ...messages];
+    let systemContent = SYSTEM_PROMPT;
+    if (productCode) {
+      const context = buildProductContext(productCode);
+      if (context) {
+        systemContent += "\n\n" + context;
+      }
+    }
+
+    const chatMessages = [{ role: "system", content: systemContent }, ...messages];
 
     const client = getOpenAI();
     let response = await client.chat.completions.create({
